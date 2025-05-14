@@ -12,8 +12,10 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-# Navigation (optional)
-header_pages:
-  - index.md
-  - cv.md
-  - research.md
+nav:
+  - name: "Home"
+    link: /
+  - name: "About"
+    link: /about
+  - name: "CV"
+    link: /cv/cv_conevska.pdf
