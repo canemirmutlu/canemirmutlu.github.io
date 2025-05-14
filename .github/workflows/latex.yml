@@ -4,19 +4,21 @@ on:
   push:
     paths:
       - 'cv/*.tex'
+      - 'cv/*.cls'
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Compile LaTeX to PDF
+      - name: Compile LaTeX CV in cv/ folder
         uses: xu-cheng/latex-action@v2
         with:
-          root_file: cv/cv_conevska.tex
+          root_file: cv_conevska.tex
+          working_directory: cv
           latexmk_use_xelatex: true
 
       - name: Commit compiled PDF
@@ -24,5 +26,5 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add cv/cv_conevska.pdf
-          git commit -m "Auto-compile CV PDF"
+          git commit -m "Auto-compile PDF from resume.cls template"
           git push
