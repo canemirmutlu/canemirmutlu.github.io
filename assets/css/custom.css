@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: "PT Sans", Calibri, Tahoma, sans-serif;
   font-weight: 300;
   font-size: 18px;
   line-height: 1.7;
@@ -23,7 +23,6 @@ body {
   margin-bottom: 0.7rem;
 }
 
-/* Navigation below the name */
 .site-nav {
   display: flex;
   justify-content: center;
