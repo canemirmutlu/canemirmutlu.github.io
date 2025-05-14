@@ -10,19 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up LaTeX
+      - name: Compile LaTeX to PDF
         uses: xu-cheng/latex-action@v2
         with:
           root_file: cv/cv_conevska.tex
           latexmk_use_xelatex: true
 
-      - name: Commit PDF
+      - name: Commit compiled PDF
         run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
           git add cv/cv_conevska.pdf
-          git commit -m "Rebuild CV PDF"
+          git commit -m "Auto-compile CV PDF"
           git push
