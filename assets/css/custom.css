@@ -24,8 +24,8 @@ body {
 .site-nav {
   display: flex;
   justify-content: center;
-  gap: 2.5rem;
-  border-bottom: 1px solid #ccc;
+  gap: 2rem;
+  border-bottom: 2px solid #ccc;
   padding-bottom: 0.7rem;
   margin-bottom: 1rem;
 }
