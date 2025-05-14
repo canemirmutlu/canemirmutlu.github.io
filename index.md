@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Aleksandra Conevska"
+title: "Hi!"
 ---
 
-Hi! I am a PhD student in the Department of Government at Harvard University.
+I am a PhD student in the Government Department at Harvard University.
