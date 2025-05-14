@@ -19,7 +19,7 @@ jobs:
         with:
           root_file: cv_conevska.tex
           working_directory: cv
-          latexmk_use_xelatex: true
+          compiler: pdflatex
 
       - name: Commit compiled PDF
         run: |
