@@ -13,9 +13,9 @@ plugins:
   - jekyll-feed
 
 nav:
-  - name: "Aleksandra Conevska"
-    link: /
-  - name: "Research"
+  - name: "research"
     link: /research
-  - name: "CV"
+  - name: "cv"
     link: /cv/cv_conevska.pdf
+  - name: "teaching"
+    link: /teaching
