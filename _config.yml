@@ -1,0 +1,19 @@
+title: "Aleksandra Conevska"
+email: "aleksandraconevska@fas.harvard.edu"
+description: >-
+My name is Aleksandra Conevska and I am a PhD student in the Department of Government at Harvard University. 
+
+baseurl: "" 
+url: "https://aleksandraconevska.github.io"
+
+theme: minima
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Navigation (optional)
+header_pages:
+  - index.md
+  - cv.md
+  - research.md
