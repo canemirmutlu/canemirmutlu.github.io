@@ -1,7 +1,7 @@
 title: "Aleksandra Conevska"
 email: "aleksandraconevska@fas.harvard.edu"
 description: >-
-   Aleksandra Conevska 
+     
 
 baseurl: "/"
 url: "https://aconevska.github.io"
@@ -13,9 +13,9 @@ plugins:
   - jekyll-feed
 
 nav:
-  - name: "Home"
+  - name: "Aleksandra Conevska"
     link: /
-  - name: "About"
-    link: /about
+  - name: "Research"
+    link: /research
   - name: "CV"
     link: /cv/cv_conevska.pdf
