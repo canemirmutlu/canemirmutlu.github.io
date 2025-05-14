@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Hi!"
+title: ""
 ---
 
-I am a PhD student in the Government Department at Harvard University.
+Hi! I am a PhD student in the Government Department at Harvard University.
