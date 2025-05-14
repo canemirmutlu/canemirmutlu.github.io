@@ -3,7 +3,7 @@ email: "aleksandraconevska@fas.harvard.edu"
 description: >-
    Aleksandra Conevska 
 
-baseurl: "/website"
+baseurl: "/"
 url: "https://aconevska.github.io"
 
 theme: minima
