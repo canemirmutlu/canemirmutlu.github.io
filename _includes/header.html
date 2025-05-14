@@ -3,7 +3,7 @@
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title }}</a>
     <nav class="site-nav">
       {% for item in site.nav %}
-        <a class="page-link" href="{{ item.link }}">{{ item.name }}</a>
+      <a class="page-link" href="{{ item.link | relative_url }}">{{ item.name }}</a>
       {% endfor %}
     </nav>
   </div>
