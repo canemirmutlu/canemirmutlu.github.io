@@ -22,9 +22,13 @@ jobs:
           compiler: pdflatex
 
       - name: Commit compiled PDF
+        env:
+          TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
           git add cv/cv_conevska.pdf
           git commit -m "Auto-compile PDF from resume.cls template"
           git push
+
