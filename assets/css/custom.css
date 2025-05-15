@@ -18,10 +18,11 @@ body {
 .site-title {
   font-size: 1.8rem;
   font-weight: 400;
-  margin-bottom: 6rem; 
+  padding-bottom: 4rem;  /* force vertical spacing */
   text-decoration: none;
   color: #000000 !important;
   pointer-events: none;
+  display: block;
 }
 
 .site-title:hover,
