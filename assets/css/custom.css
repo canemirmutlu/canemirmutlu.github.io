@@ -34,7 +34,7 @@ body {
 .site-nav {
   display: flex;
   justify-content: center;
-  gap: 3rem;
+  gap: 6rem;
   border-bottom: 1px solid #aaa;  
   padding-bottom: 0.6rem;
   margin-bottom: 1rem;
@@ -50,7 +50,7 @@ body {
 }
 
 .site-nav .page-link:hover {
-  border-bottom: 2px solid #000;
+  border-bottom: 1px solid #000;
 }
 
 .wrapper {
