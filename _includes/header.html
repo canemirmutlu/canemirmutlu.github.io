@@ -1,6 +1,7 @@
 <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+    <div class="title-underline"></div>
     <nav class="site-nav">
       {% for item in site.nav %}
         <a class="page-link" href="{{ item.link | relative_url }}">{{ item.name }}</a>
