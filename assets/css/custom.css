@@ -37,8 +37,8 @@ body {
   justify-content: center;
   gap: 3rem;
   border-bottom: 1px solid #aaa;  
-  padding-bottom: 0.6rem;
-  margin-bottom: 0.5rem;
+  padding-bottom: 0.6rem; /* space between tabs and the border */
+  margin-bottom: 0.5rem;  /* space between the border and the content below */
 }
 
 .site-nav .page-link {
@@ -64,6 +64,6 @@ body {
   width: 90%;
   max-width: 800px;
   border-bottom: 1px solid #aaa;
-  margin: 0.5rem auto 0.5rem;
+  margin: 0.2rem auto 0.5rem;  /* ↓ less space above, same below */
 }
 
