@@ -84,10 +84,18 @@ body {
   height: 28px;
   filter: grayscale(100%);
   transition: filter 0.3s ease;
+  display: inline-block;
 }
 
 .social-icons img:hover {
   filter: none;
 }
 
-
+/* ✅ Add this block at the very end */
+img[alt="GitHub"],
+img[alt="Google Scholar"],
+img[alt="Twitter"],
+img[alt="LinkedIn"] {
+  width: 28px !important;
+  height: 28px !important;
+}
