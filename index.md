@@ -11,7 +11,7 @@ title: ""
 
     <p>I am currently a Graduate Fellow at the <a href="https://www.iq.harvard.edu/about">Institute for Quantitative Social Science</a> (IQSS), the <a href="https://caps.gov.harvard.edu/">Center for American Political Studies</a> (CAPS), and the <a href="https://starlab.wcfia.harvard.edu/">Harvard STAR Lab</a>, and I am the Graduate Student Coordinator for the <a href="https://climatepipeline.hsites.harvard.edu/">Weatherhead Cluster on Climate Change</a> at Harvard. I am also part of a group of researchers committed to digitizing <a href="https://doi.org/10.1038/s41597-024-04017-1">Cast Vote Record data</a> in the United States, unlocking new research frontiers applicable to big questions in academia as well as real world campaign strategy.</p>
 
-    <p>My research has been published in journals including <em>Nature Scientific Data</em>, <em>International Studies Quarterly</em>, <em>Climate Policy</em>, <em>Climate and Development</em>, and <em>Energy Research & Social Science</em>.</p>
+    <p>My research has been published in <em>Nature Scientific Data</em>, <em>International Studies Quarterly</em>, <em>Climate Policy</em>, <em>Climate and Development</em>, and <em>Energy Research & Social Science</em>.</p>
   </div>
 
   <div class="bio-photo">
