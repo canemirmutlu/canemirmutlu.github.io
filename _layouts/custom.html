@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
   </head>
-  <body>
+  <body class="{{ page.title | downcase }}">
     {% include header.html %}
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
@@ -16,4 +16,3 @@
     </main>
   </body>
 </html>
-
