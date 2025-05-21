@@ -11,4 +11,25 @@ I am currently a Graduate Fellow at the [Institute for Quantitative Social Scien
 
 My research has been published in journals including _Nature Scientific Data_, _International Studies Quarterly_, _Climate Policy_, _Climate and Development_, and _Energy Research & Social Science_. 
 
+<div style="text-align: center; margin-top: 2rem;">
+
+  <a href="https://github.com/aconevska" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="30" height="30" style="margin: 0 10px;" />
+  </a>
+
+  <a href="https://scholar.google.com/citations?user=9_02_o4AAAAJ&hl=en" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" width="30" height="30" style="margin: 0 10px;" />
+  </a>
+
+  <a href="https://x.com/aleksandracone" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" width="30" height="30" style="margin: 0 10px;" />
+  </a>
+
+  <a href="https://linkedin.com/in/aleksandra-conevska/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin: 0 10px;" />
+  </a>
+
+</div>
+
+
 
