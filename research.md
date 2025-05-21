@@ -2,6 +2,8 @@
 layout: custom
 title: "Research"
 ---
+<div class="research-page">
+
 
 ## Publications
 
@@ -37,3 +39,6 @@ title: "Research"
 
 **Polluting Politicians: Import Shocks and Environmental Outcomes**  
 (with Sean Nossek)
+
+
+</div>
