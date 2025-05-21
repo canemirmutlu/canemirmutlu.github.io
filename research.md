@@ -2,7 +2,6 @@
 layout: custom
 title: "Research"
 ---
-<div class="research-page">
 
 
 ## Publications
@@ -41,4 +40,3 @@ title: "Research"
 (with Sean Nossek)
 
 
-</div>
