@@ -127,3 +127,11 @@ body.research {
   line-height: 1.5;
 }
 
+.tight-list ol {
+  padding-left: 1.5rem; 
+  margin-left: 0;
+  max-width: 680px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
