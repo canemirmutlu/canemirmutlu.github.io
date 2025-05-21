@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 
-### Publications
+## Publications
 
 1. **Kuriwaki, S., Reece, M., Baltz, S. et al.** (2024). [*Cast vote records: A database of ballots from the 2020 U.S. Election*](https://doi.org/10.1038/s41597-024-04017-1). _Nature Scientific Data_, **11**, 1304.
 
@@ -23,7 +23,7 @@ title: "Research"
 ---
 
 
-### Working Papers
+## Working Papers
 
 **[How Partisan are U.S. Local Elections? Evidence from 2020 Cast Vote Records](https://osf.io/preprints/osf/db3mj)**  
 (with Shigeo Hirano,  Shiro Kuriwaki,  Jeffery B. Lewis,  Can Mutlu, and James M. Snyder,  Jr.).  _Conditionally Accepted._
