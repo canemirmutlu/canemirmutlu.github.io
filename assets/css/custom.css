@@ -82,8 +82,8 @@ body {
 }
 
 .social-icons img {
-  width: 28px;
-  height: 28px;
+  width: 30px;
+  height: 30px;
   filter: grayscale(100%);
   transition: filter 0.3s ease;
   display: inline-block;
