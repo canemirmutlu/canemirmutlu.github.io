@@ -114,7 +114,7 @@ img[alt="LinkedIn"] {
 }
 
 .bio-photo img {
-  max-width: 200px;
+  max-width: 100px;
   height: auto;
   border-radius: 4px;
   margin-top: 1rem;
