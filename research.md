@@ -31,7 +31,7 @@ title: "Research"
 **[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://arxiv.org/abs/2501.03196)**  
 (with Can Mutlu).  _R&R._
 
-**Ticket Splitting, Voting, and Ideology**  
+**Ideology, Party, and Split-Ticket Voting**  
 (with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.)
 
 **When Are Parties ‘Good’ For The Environment?**  
