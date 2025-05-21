@@ -98,3 +98,24 @@ img[alt="LinkedIn"] {
   width: 28px !important;
   height: 28px !important;
 }
+
+.bio-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+
+.bio-text {
+  flex: 1 1 60%;
+  max-width: 600px;
+}
+
+.bio-photo img {
+  max-width: 200px;
+  height: auto;
+  border-radius: 4px;
+  margin-top: 1rem;
+}
