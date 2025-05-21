@@ -5,6 +5,7 @@ title: "Research"
 
 
 ## Publications
+<div class="tight-list">
 
 1. **Kuriwaki, S., Reece, M., Baltz, S. et al.** (2024). [*Cast vote records: A database of ballots from the 2020 U.S. Election*](https://doi.org/10.1038/s41597-024-04017-1). _Nature Scientific Data_, **11**, 1304.
 
@@ -17,6 +18,8 @@ title: "Research"
 5. **Conevska, A., Ford, J., and Lesnikowski, A.** (2020). [*Assessing the adaptation fund’s responsiveness to developing country’s needs*](https://doi.org/10.1080/17565529.2019.1638225). _Climate and Development_, **12**(5), 436–447.
 
 6. **Conevska, A., Ford, J., Lesnikowski, A., and Harper, S.** (2019). [*Adaptation financing for projects focused on food systems through the UNFCCC*](https://doi.org/10.1080/14693062.2018.1466682). _Climate Policy_, **19**(1), 43–58.
+   
+</div>
 
 
 
