@@ -3,7 +3,7 @@ layout: custom
 title: ""
 ---
 
-Hi! I am a PhD student in the Department of Government at Harvard University where I study the political economy of climate change.
+Hi! I am a PhD candidate in the Department of Government at Harvard University where I study the political economy of climate change.
 
 I am currently a Graduate Fellow at the Institute for Quantitative Social Science (IQSS), the Center for American Political Studies (CAPS), and the Graduate Student Coordinator for the Weatherhead Cluster on Climate Change at Harvard. 
 
