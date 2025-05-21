@@ -67,3 +67,27 @@ body {
   margin: 0.2rem auto 0.5rem;  /* ↓ less space above, same below */
 }
 
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.social-icons a {
+  text-decoration: none;
+}
+
+.social-icons img {
+  width: 28px;
+  height: 28px;
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+}
+
+.social-icons img:hover {
+  filter: none;
+}
+
+
