@@ -26,13 +26,13 @@ title: "Research"
 #### Working Papers
 
 **[How Partisan are U.S. Local Elections? Evidence from 2020 Cast Vote Records](https://osf.io/preprints/osf/db3mj)**  
-(with Shigeo Hirano, Shiro Kuriwaki, Jeffery B. Lewis, Can Mutlu, and James M. Snyder, Jr.). _Conditionally Accepted._
+(with Shigeo Hirano,  Shiro Kuriwaki,  Jeffery B. Lewis,  Can Mutlu, and James M. Snyder,  Jr.).  _Conditionally Accepted._
 
 **[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://arxiv.org/abs/2501.03196)**  
-(with Can Mutlu). _R&R._
+(with Can Mutlu).  _R&R._
 
 **Ticket Splitting, Voting, and Ideology**  
-(with Shigeo Hirano, Can Mutlu, James M. Snyder, Jr.)
+(with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.)
 
 **When Are Parties ‘Good’ For The Environment?**  
 (with Can Mutlu)
