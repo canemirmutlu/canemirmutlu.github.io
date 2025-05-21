@@ -120,3 +120,8 @@ img[alt="LinkedIn"] {
   margin-top: 1rem;
 }
 
+body.research {
+  font-size: 15px;
+  line-height: 1.5;
+}
+
