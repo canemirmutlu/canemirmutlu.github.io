@@ -22,14 +22,14 @@ body {
   text-decoration: none;
   color: #000000 !important;
   pointer-events: none;
-  display: block;
+  display: inline-block;
 }
 
 .site-title:hover,
 .site-title:visited,
 .site-title:focus {
-  color: #000000 !important;
   text-decoration: none;
+  color: #000000 !important;
 }
 
 .site-nav {
