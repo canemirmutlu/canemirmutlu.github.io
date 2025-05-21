@@ -38,7 +38,7 @@ body {
   gap: 3rem;
   border-bottom: 1px solid #aaa;  
   padding-bottom: 0.6rem; /* space between tabs and the border */
-  margin-bottom: 0.2rem;  /* space between the border and the content below */
+  margin-bottom: 0rem;  /* space between the border and the content below */
 }
 
 .site-nav .page-link {
