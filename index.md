@@ -3,17 +3,23 @@ layout: custom
 title: ""
 ---
 
-Hi! I am a PhD candidate in the Department of Government at Harvard University where I study the political economy of climate change.
+<div class="bio-container">
+  <div class="bio-text">
+    <p>Hi! I am a PhD candidate in the Department of Government at Harvard University where I study the political economy of climate change.</p>
 
-I study how institutions shape the incentives of political parties to respond to and address climate change. Though I focus primarily on the Untied States (US), I also examine how electoral system design affects the strategies parties take to address climate change in Europe. In a more applied body of work, I conduct research that can establish policy evidence relevant to the renewable energy transition. This includes my work with the Harvard Sustainability, Transparency, and Accountability Research (STAR) Lab, where I help design and implement randomized control trials on climate-related interventions with public and private sector partners.  I also use experimental methods to study voter engagement and strategic campaign messaging with a focus on climate change. 
+    <p>I study how institutions shape the incentives of political parties to respond to and address climate change. Though I focus primarily on the United States (US), I also examine how electoral system design affects the strategies parties take to address climate change in Europe. In a more applied body of work, I conduct research that can establish policy evidence relevant to the renewable energy transition. This includes my work with the Harvard Sustainability, Transparency, and Accountability Research (STAR) Lab, where I help design and implement randomized control trials on climate-related interventions with public and private sector partners. I also use experimental methods to study voter engagement and strategic campaign messaging with a focus on climate change.</p>
 
+    <p>I am currently a Graduate Fellow at the <a href="https://www.iq.harvard.edu/about">Institute for Quantitative Social Science</a> (IQSS), the <a href="https://caps.gov.harvard.edu/">Center for American Political Studies</a> (CAPS), and the <a href="https://starlab.wcfia.harvard.edu/">Harvard STAR Lab</a>, and the Graduate Student Coordinator for the <a href="https://climatepipeline.hsites.harvard.edu/">Weatherhead Cluster on Climate Change</a> at Harvard.</p>
 
-I am currently a Graduate Fellow at the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/about) (IQSS), the [Center for American Political Studies](https://caps.gov.harvard.edu/) (CAPS), and the [Harvard STAR Lab](https://starlab.wcfia.harvard.edu/), and the Graduate Student Coordinator for the [Weatherhead Cluster on Climate Change](https://climatepipeline.hsites.harvard.edu/) at Harvard.
+    <p>I am also part of a group of researchers committed to digitizing <a href="https://doi.org/10.1038/s41597-024-04017-1">Cast Vote Record data</a> in the United States, unlocking new research frontiers applicable to big questions in academia as well as real world campaign strategy.</p>
 
+    <p>My research has been published in journals including <em>Nature Scientific Data</em>, <em>International Studies Quarterly</em>, <em>Climate Policy</em>, <em>Climate and Development</em>, and <em>Energy Research & Social Science</em>.</p>
+  </div>
 
-I am also part of a group of researchers committed to digitizing [Cast Vote Record data](https://doi.org/10.1038/s41597-024-04017-1) in the United States, unlocking new research frontiers applicable to big questions in academica, as well as to real world campaign strategy. 
-
-My research has been published in journals including _Nature Scientific Data_, _International Studies Quarterly_, _Climate Policy_, _Climate and Development_, and _Energy Research & Social Science_. 
+  <div class="bio-photo">
+    <img src="/assets/images/headshot2025.jpg" alt="Aleksandra Conevska" />
+  </div>
+</div>
 
 <div class="social-icons">
   <a href="https://github.com/aconevska" target="_blank" title="GitHub">
