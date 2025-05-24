@@ -138,8 +138,8 @@ body.research {
 .bio-photo .social-icons {
   display: flex;
   justify-content: center;
-  gap: 0.2rem;
-  margin-top: 0.5rem;
+  gap: 0.7rem;
+  margin-top: 0.1rem;
 }
 
 .bio-photo .social-icons img {
