@@ -16,20 +16,21 @@ title: ""
 
   <div class="bio-photo">
     <img src="/assets/images/headshot2025.jpg" alt="Aleksandra Conevska" />
+
+    <div class="social-icons">
+      <a href="https://github.com/aconevska" target="_blank" title="GitHub">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" />
+      </a>
+      <a href="https://scholar.google.com/citations?user=9_02_o4AAAAJ&hl=en" target="_blank" title="Google Scholar">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" />
+      </a>
+      <a href="https://x.com/aleksandracone" target="_blank" title="Twitter">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" />
+      </a>
+      <a href="https://linkedin.com/in/aleksandra-conevska" target="_blank" title="LinkedIn">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" />
+      </a>
+    </div>
   </div>
 </div>
 
-<div class="social-icons">
-  <a href="https://github.com/aconevska" target="_blank" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=9_02_o4AAAAJ&hl=en" target="_blank" title="Google Scholar">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" />
-  </a>
-  <a href="https://x.com/aleksandracone" target="_blank" title="Twitter">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/aleksandra-conevska" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" />
-  </a>
-</div>
