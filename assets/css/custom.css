@@ -135,3 +135,20 @@ body.research {
   margin-left: auto;
 }
 
+.bio-photo .social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 0.5rem;
+}
+
+.bio-photo .social-icons img {
+  width: 28px;
+  height: 28px;
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+}
+
+.bio-photo .social-icons img:hover {
+  filter: none;
+}
