@@ -18,12 +18,15 @@ title: ""
     <img src="/assets/images/headshot2025.jpg" alt="Aleksandra Conevska" />
 
     <div class="social-icons">
-     <a href="https://github.com/aconevska" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/50/1DA1F2/github.png" alt="GitHub" />
-    </a>
+    
+     <a href="https://github.com/aconevska" class="is-icon">
+     <i class="fab fa-github fa-2x"></i></a></div>    
+     </a>
+
       <a href="https://scholar.google.com/citations?user=9_02_o4AAAAJ&hl=en" target="_blank" title="Google Scholar">
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" />
       </a>
+      
       <a href="https://x.com/aleksandracone" target="_blank" title="Twitter">
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" />
       </a>
