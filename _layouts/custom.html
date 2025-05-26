@@ -1,19 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+  
   <head>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Anuphan:wght@300;400;500&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome for GitHub, Twitter, LinkedIn -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+          integrity="sha384-DyZ88mC6Up2uqS4h/KfH40M0UreHq9WoC9XTXYPSAeFfJWbOGWjU/hcJ68UhoO2B"
+          crossorigin="anonymous" />
+
+    <!-- Academicons for Google Scholar -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" />
+
+    <!-- Site Stylesheets -->
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
-    <link href="https://fonts.googleapis.com/css2?family=Anuphan:wght@300;400;500&display=swap" rel="stylesheet">
-    <!-- Font Awesome -->
-      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KfH40M0UreHq9WoC9XTXYPSAeFfJWbOGWjU/hcJ68UhoO2B" crossorigin="anonymous" />
-
-    <!-- Academicons -->
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css">
-
   </head>
+
   <body class="{{ page.title | downcase }}">
     {% include header.html %}
     <main class="page-content" aria-label="Content">
@@ -22,4 +30,5 @@
       </div>
     </main>
   </body>
+  
 </html>
