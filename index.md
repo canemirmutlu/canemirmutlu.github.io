@@ -18,7 +18,7 @@ title: ""
  <div class="bio-photo">
     <img src="/assets/images/headshot2025.jpg" alt="Aleksandra Conevska" />
 
- <div class="is-container-row is-center is-inset-top-8 social-icons">
+<div class="is-container-row is-center is-inset-top-8 social-icons">
   <div class="is-inset-8">
     <a href="https://github.com/aconevska" class="is-icon" title="GitHub">
       <i class="fab fa-github fa-2x"></i>
