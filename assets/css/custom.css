@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@300;400;500&display=swap');
+
+
 body {
-  font-family: "PT Sans", Anuphan, Anuphan, sans-serif;
+  font-family: 'Anuphan', 'PT Sans', sans-serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 1.7;
