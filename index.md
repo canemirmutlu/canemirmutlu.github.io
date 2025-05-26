@@ -18,12 +18,29 @@ title: ""
  <div class="bio-photo">
     <img src="/assets/images/headshot2025.jpg" alt="Aleksandra Conevska" />
 
- <div class="is-container-row is-center social-icons">
-    <a href="https://github.com/aconevska" class="is-icon" title="GitHub"><i class="fab fa-github fa-2x"></i></a>
-    <a href="https://x.com/aleksandracone" class="is-icon" title="Twitter"><i class="fab fa-twitter fa-2x"></i></a>
-    <a href="https://scholar.google.com/citations?user=9_02_o4AAAAJ&hl=en" class="is-icon" title="Google Scholar"><i class="ai ai-google-scholar ai-2x"></i></a>
-    <a href="https://www.linkedin.com/in/aleksandra-conevska/" class="is-icon" title="LinkedIn"><i class="fab fa-linkedin fa-2x"></i></a>
+ <div class="is-container-row is-center is-inset-top-8 social-icons">
+  <div class="is-inset-8">
+    <a href="https://github.com/aconevska" class="is-icon" title="GitHub">
+      <i class="fab fa-github fa-2x"></i>
+    </a>
+  </div>
+  <div class="is-inset-8">
+    <a href="https://x.com/aleksandracone" class="is-icon" title="Twitter">
+      <i class="fab fa-twitter fa-2x"></i>
+    </a>
+  </div>
+  <div class="is-inset-8">
+    <a href="https://scholar.google.com/citations?user=9_02_o4AAAAJ&hl=en" class="is-icon" title="Google Scholar">
+      <i class="ai ai-google-scholar ai-2x"></i>
+    </a>
+  </div>
+  <div class="is-inset-8">
+    <a href="https://www.linkedin.com/in/aleksandra-conevska/" class="is-icon" title="LinkedIn">
+      <i class="fab fa-linkedin fa-2x"></i>
+    </a>
+  </div>
 </div>
+
   
 </div>
   
