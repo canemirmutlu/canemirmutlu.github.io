@@ -83,9 +83,9 @@ body {
 }
 
 .social-icons img {
-  width: 30px;
-  height: 30px;
-  filter: grayscale(100%);
+  width: 36px;
+  height: 36px;
+  filter: grayscale(50%);
   transition: filter 0.3s ease;
   display: inline-block;
 }
