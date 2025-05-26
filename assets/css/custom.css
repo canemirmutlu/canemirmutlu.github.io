@@ -22,7 +22,6 @@ body {
   padding-bottom: 3rem;  /* force vertical spacing */
   text-decoration: none;
   color: #000000 !important;
-  pointer-events: none;
   display: inline-block;
 }
 
