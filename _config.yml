@@ -11,9 +11,9 @@ plugins:
   - jekyll-feed
 
 nav:
-  - name: "research"
-    link: /research
-  - name: "cv"
-    link: /cv/cv_conevska.pdf
-  - name: "teaching"
+  - name: "Research"
+    link: /Research
+  - name: "CV"
+    link: /CV/cv_conevska.pdf
+  - name: "Teaching"
     #link: /teaching
