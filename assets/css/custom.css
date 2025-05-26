@@ -153,3 +153,20 @@ body.research {
 .bio-photo .social-icons img:hover {
   filter: none;
 }
+
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+  margin-top: 0.5rem;
+}
+
+.social-icons a {
+  color: #1d72b8; /* clean academic blue */
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #cd5c5c;
+}
