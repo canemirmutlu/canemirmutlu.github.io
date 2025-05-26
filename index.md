@@ -12,28 +12,21 @@ title: ""
     <p>I am currently a Graduate Fellow at the <a href="https://www.iq.harvard.edu/about">Institute for Quantitative Social Science</a> (IQSS), the <a href="https://caps.gov.harvard.edu/">Center for American Political Studies</a> (CAPS), and the <a href="https://starlab.wcfia.harvard.edu/">Harvard STAR Lab</a>, and I am the Graduate Student Coordinator for the <a href="https://climatepipeline.hsites.harvard.edu/">Weatherhead Cluster on Climate Change</a> at Harvard. I am also part of a group of researchers committed to digitizing <a href="https://doi.org/10.1038/s41597-024-04017-1">Cast Vote Record data</a> in the United States, unlocking new research frontiers applicable to big questions in academia as well as real world campaign strategy.</p>
 
     <p>My research has been published in <em>Nature Scientific Data</em>, <em>International Studies Quarterly</em>, <em>Climate Policy</em>, <em>Climate and Development</em>, and <em>Energy Research & Social Science</em>.</p>
-  </div>
+    
+</div>
 
   <div class="bio-photo">
     <img src="/assets/images/headshot2025.jpg" alt="Aleksandra Conevska" />
 
-    <div class="social-icons">
-    
-     <a href="https://github.com/aconevska" class="is-icon">
-     <i class="fab fa-github fa-2x"></i></a></div>    
-     </a>
+  <div class="is-container-row is-center">
+    <div class="is-inset-8"><a href="https://github.com/aconevska" class="is-icon"><i class="fab fa-github fa-2x"></i></a></div>
+    <div class="is-inset-8"><a href="https://x.com/aleksandracone" class="is-icon"><i class="fab fa-twitter fa-2x"></i></a></div>
+    <div class="is-inset-8"><a href="https://scholar.google.com/citations?user=9_02_o4AAAAJ&hl=en" class="is-icon"><i class="ai ai-google-scholar ai-2x"></i></a></div>
+    <div class="is-inset-8"><a href="https://www.linkedin.com/in/aleksandra-conevska/" class="is-icon"><i class="fab fa-linkedin fa-2x"></i></a></div>
 
-      <a href="https://scholar.google.com/citations?user=9_02_o4AAAAJ&hl=en" target="_blank" title="Google Scholar">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" />
-      </a>
-      
-      <a href="https://x.com/aleksandracone" target="_blank" title="Twitter">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" />
-      </a>
-      <a href="https://linkedin.com/in/aleksandra-conevska" target="_blank" title="LinkedIn">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" />
-      </a>
-    </div>
   </div>
+  
+  </div>
+  
 </div>
 
