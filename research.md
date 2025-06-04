@@ -26,7 +26,7 @@ title: "Research"
 
 ## Working Papers
 
-\hspace{1cm} **[How Partisan are U.S. Local Elections? Evidence from 2020 Cast Vote Records](https://osf.io/preprints/osf/db3mj)**  
+**[How Partisan are U.S. Local Elections? Evidence from 2020 Cast Vote Records](https://osf.io/preprints/osf/db3mj)**  
 (with Shigeo Hirano,  Shiro Kuriwaki,  Jeffery B. Lewis,  Can Mutlu, and James M. Snyder,  Jr.).  _Conditionally Accepted, American Political Science Review._
 
 **[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://arxiv.org/abs/2501.03196)**  
