@@ -26,6 +26,8 @@ title: "Research"
 
 ## Working Papers
 
+<div class="tight-content">
+
 **[How Partisan are U.S. Local Elections? Evidence from 2020 Cast Vote Records](https://osf.io/preprints/osf/db3mj)**  
 (with Shigeo Hirano,  Shiro Kuriwaki,  Jeffery B. Lewis,  Can Mutlu, and James M. Snyder,  Jr.).  _Conditionally Accepted, American Political Science Review._
 
@@ -40,5 +42,7 @@ title: "Research"
 
 **Polluting Politicians: Import Shocks and Environmental Outcomes**  
 (with Sean Nossek)
+
+</div>
 
 
