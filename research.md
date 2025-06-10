@@ -29,7 +29,8 @@ title: "Research"
 **[How Partisan are U.S. Local Elections? Evidence from 2020 Cast Vote Records](https://osf.io/preprints/osf/db3mj)** (with Shigeo Hirano,  Shiro Kuriwaki,  Jeffery B. Lewis,  Can Mutlu, and James M. Snyder,  Jr.).  
 _Conditionally Accepted, American Political Science Review._
 
-**[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://arxiv.org/abs/2501.03196)** (with Can Mutlu). _Revise & Resubmit, American Political Science Review._
+**[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://arxiv.org/abs/2501.03196)** (with Can Mutlu). 
+_Revise & Resubmit, American Political Science Review._
 
 **Ideology, Party, and Split-Ticket Voting**  
 (with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.)
