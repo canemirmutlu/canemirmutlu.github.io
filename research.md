@@ -30,7 +30,7 @@ title: "Research"
 (with Shigeo Hirano,  Shiro Kuriwaki,  Jeffery B. Lewis,  Can Mutlu, and James M. Snyder,  Jr.).  _Conditionally Accepted, American Political Science Review._
 
 **[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://arxiv.org/abs/2501.03196)**  
-(with Can Mutlu).  _R&R._
+(with Can Mutlu).  _R&R, American Political Science Review._
 
 **Ideology, Party, and Split-Ticket Voting**  
 (with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.)
