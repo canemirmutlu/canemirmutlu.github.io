@@ -5,7 +5,7 @@ title: ""
 
 <div class="bio-container">
   <div class="bio-text">
-    <p>Hi! I am a PhD candidate in the Department of Government at Harvard University where I study the political economy of climate change.</p>
+    <p>Hi! I am a PhD candidate in the Department of Government at Harvard University.</p>
 
     <p>My work examines how institutions shape the incentives of political parties to address climate change. I focus primarily on the United States but also examine how electoral system design affects how parties address 'new' issues in Europe. In a more applied body of work, I conduct research to establish policy evidence relevant to the energy transition. This encompasses my work with the <a href="https://starlab.wcfia.harvard.edu/">Harvard STAR Lab</a>, where I help implement RCTs on climate-related interventions with public and private sector partners, including the Commonwealth Bank of Australia and the Bank of Ireland. I also use experimental methods to study voter engagement and strategic campaign messaging.</p>
 
