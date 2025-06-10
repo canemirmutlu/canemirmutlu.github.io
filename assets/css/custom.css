@@ -112,8 +112,9 @@ img[alt="LinkedIn"] {
 
 .bio-text {
   flex: 1 1 60%;
-  max-width: 600px;
+  max-width: 42em;
 }
+
 
 .bio-photo img {
   max-width: 260px;
@@ -162,7 +163,6 @@ body.research {
 }
 
 .social-icons a {
-  color: #1d72b8; /* clean academic blue */
   text-decoration: none;
 }
 
