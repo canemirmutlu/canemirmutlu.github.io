@@ -181,3 +181,10 @@ body.research .wrapper {
   margin-left: auto;
   margin-right: auto;
 }
+
+body.research main.page-content > .wrapper {
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
