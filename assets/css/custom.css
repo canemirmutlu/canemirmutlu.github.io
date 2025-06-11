@@ -112,7 +112,7 @@ img[alt="LinkedIn"] {
 
 .bio-text {
   flex: 1 1 60%;
-  max-width: 42em;
+   max-width: 720px;
 }
 
 
