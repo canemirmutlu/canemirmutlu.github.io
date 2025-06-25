@@ -11,7 +11,7 @@ title: ""
 
     <p>I am currently a Graduate Fellow at the <a href="https://www.iq.harvard.edu/about">Institute for Quantitative Social Science</a> (IQSS), the <a href="https://caps.gov.harvard.edu/">Center for American Political Studies</a> (CAPS), and the <a href="https://starlab.wcfia.harvard.edu/">Harvard STAR Lab</a>, and a Harvard <a href="https://salatainstitute.harvard.edu/">Salata Instutite</a> Fellow. I am also part of a group of researchers committed to digitizing <a href="https://doi.org/10.1038/s41597-024-04017-1">Cast Vote Record data</a> in the United States, unlocking new research frontiers applicable to big questions in academia as well as real world campaign strategy.</p>
 
-        <p>Prior to Harvard, I was a Fulbright Scholar at Johns Hopkins University before earning a Bachelor of Arts and Science from McGill University with Joint Honours in Environmnetal Science and Political Science. I also worked as a consultant for the World Bank Group, London Economics International, and Siemens.</p>
+        <p>Prior to Harvard, I was a Fulbright Scholar at Johns Hopkins University after earning a Bachelor of Arts and Science from McGill University with Joint Honours in Environmnetal Science and Political Science. I have also worked as a consultant for the World Bank Group, London Economics International, and Siemens.</p>
 
     <p>My research has been published in <em>Nature Scientific Data</em>, <em>International Studies Quarterly</em>, <em>Climate Policy</em>, <em>Climate and Development</em>, and <em>Energy Research & Social Science</em>.</p>
     
