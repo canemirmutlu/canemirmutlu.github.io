@@ -1,7 +1,10 @@
+html {
+  font-family: 'Barlow', sans-serif;
+  font-weight: 300;
+  /* …etc… */
+}
 
 body {
-  font-family: 'Barlow', serif;
-  font-weight: 300;
   font-size: 14px;
   line-height: 1.7;
   color: #000000 !important;
