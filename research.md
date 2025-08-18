@@ -6,6 +6,9 @@ title: "Research"
 
 ## Publications
 
+**Conevska, A., Hirano, S., Kuriwaki, S., Lewis, J. B., Mutlu, C., Snyder, J. M.** (2025). [*How Partisan are U.S. Local Elections? Evidence from 2020 Cast Vote Records*](https://osf.io/preprints/osf/db3mj_v2). _Forthcoming, American Political Science Review._
+
+
 **Kuriwaki, S., Reece, M., Baltz, S. et al.** (2024). [*Cast vote records: A database of ballots from the 2020 U.S. Election*](https://doi.org/10.1038/s41597-024-04017-1). _Nature Scientific Data_, **11**, 1304.
 
 
@@ -22,10 +25,6 @@ title: "Research"
 
 
 **Conevska, A., Ford, J., Lesnikowski, A., and Harper, S.** (2019). [*Adaptation financing for projects focused on food systems through the UNFCCC*](https://doi.org/10.1080/14693062.2018.1466682). _Climate Policy_, **19**(1), 43–58.
-
-   
-**[How Partisan are U.S. Local Elections? Evidence from 2020 Cast Vote Records](https://osf.io/preprints/osf/db3mj)** (with Shigeo Hirano,  Shiro Kuriwaki,  Jeffery B. Lewis,  Can Mutlu, and James M. Snyder,  Jr.)._Forthincoming, American Political Science Review._
-
 
 ---
 
