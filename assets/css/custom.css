@@ -191,3 +191,14 @@ body.research main.page-content > .wrapper {
   margin-right: auto;
 }
 
+/* Add spacing to items under Research page */
+.page-content p {
+  margin-bottom: 1.2em;  /* Increase bottom margin between paragraphs */
+}
+
+.page-content strong {
+  display: block;        /* Forces author names to be on their own line */
+  margin-bottom: 0.4em;
+}
+
+
