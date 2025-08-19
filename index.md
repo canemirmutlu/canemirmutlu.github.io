@@ -5,43 +5,20 @@ title: ""
 
 <div class="bio-container">
   <div class="bio-text">
-    <p>Hi! I am a PhD candidate in the Department of Government at Harvard University.</p>
+    <p>I am a Ph.D. candidate in the Political Economy and Government program at Harvard University. I use formal theory and quantitative methods to study contemporary electoral politics and historical elite behavior, especially, in the Western European and the U.S. context.</p>
 
-    <p>My work examines how institutions shape the incentives of political parties to address climate change. I focus primarily on the United States but also examine how electoral system design affects how parties address 'new' issues in Europe. In a more applied body of work, I conduct research to establish policy evidence relevant to the energy transition. This encompasses my work with the <a href="https://starlab.wcfia.harvard.edu/">Harvard STAR Lab</a>, where I help implement RCTs on climate-related interventions with public and private sector partners, including the Commonwealth Bank of Australia and the Bank of Ireland. I also use experimental methods to study voter engagement and strategic campaign messaging.</p>
+    <p>I am also part of a group of researchers committed to digitizing Cast Vote Record data in the United States with Aleksandra Conevska,... Using this data set, in separate projects we test common place assumptions and hypothesis on voter behavior. These include nationalization of American local politics, different ideological and partisan voter groups’ responsiveness to race level valence cues, voter rationale for abstention and the validity of commonplace assumptions over voters’ political utility functions aiming to capture voting and abstention behavior of the voter.</p>
 
-    <p>I am currently a Graduate Fellow at the <a href="https://www.iq.harvard.edu/about">Institute for Quantitative Social Science</a> (IQSS), the <a href="https://caps.gov.harvard.edu/">Center for American Political Studies</a> (CAPS), and the <a href="https://starlab.wcfia.harvard.edu/">Harvard STAR Lab</a>, and a Harvard <a href="https://salatainstitute.harvard.edu/">Salata Instutite</a> Fellow. I am also part of a group of researchers committed to digitizing <a href="https://doi.org/10.1038/s41597-024-04017-1">Cast Vote Record data</a> in the United States, unlocking new research frontiers applicable to big questions in academia as well as real world campaign strategy.</p>
+    <p>I am currently a Graduate Fellow at the Institute for Quantitative Social Science (IQSS) and the Center for American Political Studies (CAPS). I am also a Graduate Student Affiliate at the Minda de Gunzburg Center for European Studies and the recipient of a Krupp Foundation Dissertation Research Fellowship.</p>
 
-        <p>Prior to Harvard, I was a Fulbright Scholar at Johns Hopkins University after earning a Bachelor of Arts and Science from McGill University with Joint Honours in Environmnetal Science and Political Science. I have also worked as a consultant for the World Bank Group, London Economics International, and Siemens.</p>
+        <p>Prior, I earned an M.Sc. in political economy and political science from the London School of Economics and Political Science (LSE) and a B.Sc. in mathematics and economics from Haverford College.</p>
 
-    <p>My research has been published in <em>Nature Scientific Data</em>, <em>International Studies Quarterly</em>, <em>Climate Policy</em>, <em>Climate and Development</em>, and <em>Energy Research & Social Science</em>.</p>
+    <p>My research has been published or is forthcoming in <em>Nature Scientific Data</em> and <em>The American Political Sceince Review</em>.</p>
     
 </div>
 
  <div class="bio-photo">
     <img src="/assets/images/headshot2025.jpg" alt="Aleksandra Conevska" />
-
-<div class="is-container-row is-center is-inset-top-8 social-icons">
-  <div class="is-inset-8">
-    <a href="https://github.com/aconevska" class="is-icon" title="GitHub">
-      <i class="fab fa-github fa-2x"></i>
-    </a>
-  </div>
-  <div class="is-inset-8">
-    <a href="https://x.com/aleksandracone" class="is-icon" title="Twitter">
-      <i class="fab fa-twitter fa-2x"></i>
-    </a>
-  </div>
-  <div class="is-inset-8">
-    <a href="https://scholar.google.com/citations?user=9_02_o4AAAAJ&hl=en" class="is-icon" title="Google Scholar">
-      <i class="ai ai-google-scholar ai-2x"></i>
-    </a>
-  </div>
-  <div class="is-inset-8">
-    <a href="https://www.linkedin.com/in/aleksandra-conevska/" class="is-icon" title="LinkedIn">
-      <i class="fab fa-linkedin fa-2x"></i>
-    </a>
-  </div>
-</div>
 
   
 </div>
