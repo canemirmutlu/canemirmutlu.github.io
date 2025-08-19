@@ -13,7 +13,7 @@ title: ""
 
     <p>I am currently a Graduate Fellow at the <a href="https://www.iq.harvard.edu/about">Institute for Quantitative Social Science</a> (IQSS) and the <a href="https://caps.gov.harvard.edu/">Center for American Political Studies</a> (CAPS). I am also a Graduate Student Affiliate at the Minda de Gunzburg Center for European Studies and the recipient of a Krupp Foundation Dissertation Research Fellowship.</p>
 
-        <p>Prior to Harvard, I earned an M.Sc. in political economy and political science from the London School of Economics and Political Science (LSE) and a B.Sc. in mathematics and economics from Haverford College.</p>
+        <p>Prior to Harvard, I earned an M.Sc. in political economy and political science from the London School of Economics and Political Science (LSE) and a B.Sc. in Mathematics and Economics from Haverford College.</p>
 
     <p>My research has been published or is forthcoming in <em>Nature Scientific Data</em> and <em>The American Political Sceince Review</em>.</p>
     
