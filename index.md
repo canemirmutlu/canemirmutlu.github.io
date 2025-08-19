@@ -18,7 +18,7 @@ title: ""
 </div>
 
  <div class="bio-photo">
-    <img src="/assets/images/headshot2025.jpg" alt="Aleksandra Conevska" />
+    <img src="/assets/images/headshot2025.jpg" alt="Can Mutlu" />
 
   
 </div>
