@@ -17,7 +17,7 @@ jobs:
       - name: Compile LaTeX CV in cv/ folder
         uses: xu-cheng/latex-action@v2
         with:
-          root_file: cv_conevska.tex
+          root_file: Can_Mutlu_Resume.tex
           working_directory: cv
           compiler: pdflatex
           
